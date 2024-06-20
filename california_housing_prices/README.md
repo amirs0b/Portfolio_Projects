@@ -84,15 +84,15 @@ We visualize the performance of the different models using bar plots.
 
 ### Mean Absolute Error (MAE)
 
-![Mean Absolute Error of Models](california_housing_prices/graphs/Plot_MAE.png)
+![Mean Absolute Error of Models](./graph/Plot%20MAE.png)
 
 ### Mean Squared Error (MSE)
 
-![Mean Squared Error of Models](california_housing_prices/graphs/Plot_MSE.png)
+![Mean Squared Error of Models](./graph/Plot%20MSE.png)
 
 ### R² Score
 
-![R² Score of Models](california_housing_prices/graphs/Plot_R2.png)
+![R² Score of Models](./graph/Plot%20R².png)
 
 ## Conclusion
 
